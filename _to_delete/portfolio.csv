@@ -1,0 +1,5 @@
+symbol,type,expiry,strike,right,currency,multiplier,position,price,value,avg_cost,unrealized,realized
+GOLD,STK,,,0,EUR,,3.4717,138.8447418,482.03,144.88412015,-20.97,0.0
+NKE,OPT,20270319,45.0,C,USD,100,1.0,1.26467575,126.47,140.7673,-14.3,0.0
+NVDA,STK,,,0,USD,,1.5913,159.1539917,253.26,157.72613585,2.27,0.0
+ONON,STK,,,0,USD,,4.5489,32.79608155,149.19,33.2610521,-2.12,0.0
